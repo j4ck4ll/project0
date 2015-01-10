@@ -1,0 +1,6 @@
+<?
+    include('pizza.php');
+?>
+<h1>Pizza XL</h1>
+<h2>Order our pizzas online!</h2>
+<br>
